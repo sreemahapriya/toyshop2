@@ -1,0 +1,31 @@
+.car{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    background-color:solid yellow;
+
+}
+.car .car1{
+    height: 280px;
+    width: 220px;
+    border: 2px solid black;
+    background-color:grey;
+
+}
+.car .car1 img{
+    height: 125px;
+    width: 220px;
+}
+.car .car1 h3{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+.car .car1 h6{
+    font-size: 15px;
+    color: black;
+
+}
+.car .car1 ul li{
+    display: inline;
+}

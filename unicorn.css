@@ -1,0 +1,32 @@
+
+.unicorn{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    background-color:solid yellow;
+
+}
+.unicorn .unicorn1{
+    height: 280px;
+    width: 220px;
+    border: 2px solid black;
+    background-color:violet;
+
+}
+.unicorn .unicorn1 img{
+    height: 125px;
+    width: 220px;
+}
+.unicorn .unicorn1 h3{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+.unicorn .unicorn1 h6{
+    font-size: 15px;
+    color: black;
+
+}
+.unicorn .unicorn1 ul li{
+    display: inline;
+}

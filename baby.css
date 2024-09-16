@@ -1,0 +1,31 @@
+.baby{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    background-color:solid yellow;
+
+}
+.baby .baby1{
+    height: 280px;
+    width: 220px;
+    border: 2px solid black;
+    background-color:yellow;
+
+}
+.baby .baby1 img{
+    height: 125px;
+    width: 220px;
+}
+.baby .baby1 h3{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+.baby .baby1 h6{
+    font-size: 15px;
+    color: black;
+
+}
+.baby .baby1 ul li{
+    display: inline;
+}

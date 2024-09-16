@@ -1,0 +1,33 @@
+
+.barbie{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    background-color:solid yellow;
+
+}
+.barbie .barbie1{
+    height: 280px;
+    width: 220px;
+    border: 2px solid black;
+    background-color:sandybrown;
+   
+}
+.barbie .barbie1 img{
+    height: 125px;
+    width: 220px;
+
+}
+.barbie .barbie1 h3{
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+.barbie .barbie1 h6{
+    font-size: 15px;
+    color: black;
+
+}
+.barbie .barbie1 ul li{
+    display: inline;
+}
